@@ -8,7 +8,7 @@
 }*/ 
 
 /*function FazAlgo(tarefa){
-
+ 
         console.log("fazendo " + tarefa);
 
 
