@@ -12,9 +12,7 @@ function RetornaBotao(){
 }
 
 
-f
-
-unction Cabecalho(){
+function Cabecalho(){
 
       return (<p>Bem vindo ao sistema</p>);
 
